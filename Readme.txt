@@ -1,1 +1,0 @@
-Linux Cheatsheet for cybersecurity
