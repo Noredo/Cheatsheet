@@ -15,4 +15,4 @@
   * [FTP (20,21)](services/ftp-20-21.md)
   * [SSH (22)](services/ssh-22.md)
   * [DNS (53)](services/dns-53.md)
-  * [SMB (139,137,445)](services/smb-139-137-445.md)
+  * [SMB (139,445)](services/smb-139-445.md)
