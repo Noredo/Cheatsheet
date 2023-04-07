@@ -6,6 +6,7 @@
 * [Linux](linux/README.md)
   * [Commands](linux/commands/README.md)
     * [Netcat](linux/commands/netcat.md)
+  * [Privilege escalation](linux/privilege-escalation.md)
 * [AD](ad.md)
 * [Workflow](workflow.md)
   * [Reconnaissance](workflow/reconnaissance/README.md)
