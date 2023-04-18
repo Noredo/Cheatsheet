@@ -1,0 +1,3 @@
+# AD
+
+Active Directory (AD) is a directory service developed by Microsoft that enables managing and organizing resources in a networked environment. It provides centralized authentication and authorization for users, computers, and other network resources. AD allows administrators to control access to network resources, assign policies, and enforce security settings. It also includes features such as group policy management, replication, and integration with other Microsoft services. Active Directory is widely used in enterprise environments, especially those using Microsoft products, and is an essential component of many Windows-based networks.
