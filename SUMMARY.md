@@ -8,7 +8,7 @@
     * [Netcat](linux/commands/netcat.md)
     * [DNS](linux/commands/dns.md)
   * [Privilege escalation](linux/privilege-escalation.md)
-* [AD](ad/README.md)
+* [AD](ad.md)
   * [Configuration Files](ad/configuration-files.md)
   * [Microsoft Deployment Toolkit](ad/microsoft-deployment-toolkit.md)
   * [Authentication Relays](ad/authentication-relays.md)
