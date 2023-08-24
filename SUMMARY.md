@@ -30,3 +30,4 @@
   * [SSL/TLS certificate](osint/ssl-tls-certificate.md)
   * [Email address](osint/email-address.md)
   * [Leaks](osint/leaks.md)
+  * [Compagny](osint/compagny.md)
