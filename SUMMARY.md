@@ -28,4 +28,5 @@
   * [SMB (139,445)](services/smb-139-445.md)
 * [OSINT](osint/README.md)
   * [SSL/TLS certificate](osint/ssl-tls-certificate.md)
-  * [Page 1](osint/page-1.md)
+  * [Email address](osint/email-address.md)
+  * [Leaks](osint/leaks.md)
