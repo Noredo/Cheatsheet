@@ -22,3 +22,18 @@ OSINT (Open Source Intelligence) refers to the collection, analysis, and utiliza
 
 ### Infrastructure
 
+1. IT Infrastructure Setup: Understand the company's information technology framework and architecture.
+2. Administrators: Identify the individuals responsible for administering the company's IT systems.
+3. Security Standards: Assess whether the company adheres to recommended security practices.
+4. Utilized Technologies: Identify the specific technologies and tools employed by the company.
+5. Domain Entries: Gather information about domain names associated with the company.
+6. Certificates: Identify the SSL/TLS certificates used by the company's domains.
+7. Registered Domains: Determine the number of domains registered under the company.
+8. ASN (Autonomous System Number): Identify the company's ASN, used for routing internet traffic.
+9. Reserved Netblocks: Determine the netblocks (IP address ranges) allocated to the company.
+10. Third-Party Providers: Identify third-party services utilized by the company and their purposes.
+11. Publicly Accessible Servers: List servers accessible from the public internet and their purposes.
+12. Email Addresses: Identify the number and types of email addresses associated with the company.
+
+
+
